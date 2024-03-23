@@ -1,12 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sistema de Postagens usando Spring REST API</title>
-</head>
-<body>
+
     <h1>Sistema de Postagens usando Spring REST API</h1>
+
     <p>Este é um sistema de postagens desenvolvido com Spring Boot, MongoDB e PostgreSQL como bancos de dados, e Postman para visualizar os dados JSON armazenados no MongoDB.</p>
 
     <h2>Funcionalidades</h2>
@@ -38,5 +32,4 @@
         <li>Utilize o Postman ou outro cliente HTTP para fazer solicitações à API REST.</li>
     </ol>
     <p>Certifique-se de que o MongoDB e o PostgreSQL estejam em execução antes de iniciar a aplicação.</p>
-</body>
-</html>
+
